@@ -76,7 +76,7 @@ through the steps in order:
 ## Help
 
 - Questions along the way: **linear@day.ai**
-- A demo or a conversation: [day.ai/get-started](https://day.ai/get-started)
+- Learn more about Day AI and Linear: [day.ai/linear](https://day.ai/linear)
 - Issues and suggestions for the skill itself: open an issue on this repo.
 
 Authored and maintained by Day AI.
